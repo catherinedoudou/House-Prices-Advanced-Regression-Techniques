@@ -1,0 +1,10 @@
+kaggle
+sklearn
+xgboost
+statsmodels
+pandas
+numpy
+plotly
+
+jupyterlab
+RISE
